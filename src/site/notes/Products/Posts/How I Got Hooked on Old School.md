@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/products/posts/how-i-got-hooked-on-old-school/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"2021/how-i-got-hooked-on-old-school","permalink":"/2021/how-i-got-hooked-on-old-school/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
