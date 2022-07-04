@@ -11,6 +11,8 @@ I'm 吴子夫 and I do things. I play the contrabass, geek out over languages an
 
 I write things. Sometimes, those things are even sane and fun to read. This garden is a semi-curated selection of that writing. It also has some notes and random thoughts that I've decided to throw out here for my own purposes.
 
+Here's an [[Products/Website/Directory|index]] of pages, since I'm bad at code.
+
 # About this Website
 I started working a little bit on websites awhile back, really, when I stared learning about HTML and CSS. While looking for ways to host websites, I found this neat niche thing called "static websites," introduced to me by a friend in the form of [neocities](https://neocities.org). The control and customization were neat, and the idea of not being beholden to the slew of website design webapps appealed to me.
 
