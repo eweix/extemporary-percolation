@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/products/website/directory/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"archive","permalink":"/archive/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
