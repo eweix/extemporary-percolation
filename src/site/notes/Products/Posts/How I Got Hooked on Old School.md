@@ -13,7 +13,11 @@ I looked through a few other sources. Blogs, OD&D hacks, ramblings on old abando
 
 This post was originally published on my neocities website, [gelatinous cubed](https://gelatinouscubed.neocities.org/Posts/2021/08/20how-i-got-hooked-on-old-school.html).
 
-# Info
+# Info & Navigation
 Keywords: [[OSR|OSR]], [[Game Design|Game Design]]
 Links:
 References:
+
+[[Products/Website/Directory|← Back to the directory]]
+
+[[Products/Website/Home|← Back to homepage]]
