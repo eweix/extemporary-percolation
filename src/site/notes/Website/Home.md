@@ -7,7 +7,7 @@
 # Welcome.
 Hi!
 
-I'm {insert name here} and I do things. I play the contrabass, geek out over languages and science, and consume inordinate amounts of books. I like the outdoors, storytelling, and olive green (and pastel purple or lavender, but my siblings seem to hate me for it).
+I'm 吴子夫 and I do things. I play the contrabass, geek out over languages and science, and consume inordinate amounts of books. I like the outdoors, storytelling, and olive green (and pastel purple or lavender, but my siblings seem to hate me for it).
 
 I write things. Sometimes, those things are even sane and fun to read. This garden is a semi-curated selection of that writing. It also has some notes and random thoughts that I've decided to throw out here for my own purposes.
 
